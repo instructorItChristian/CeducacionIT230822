@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T21:13:23 ART" name="Default suite" finished-at="2022-09-20T21:13:23 ART" duration-ms="27">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T21:13:23 ART" name="Default test" finished-at="2022-09-20T21:13:23 ART" duration-ms="27">
+      <class name="edit.CeducacionIT23082022.laboratorio13">
+        <test-method is-config="true" signature="abrirPagina()[pri:0, instance:edit.CeducacionIT23082022.laboratorio13@1ffaf86]" started-at="2022-09-20T21:13:19 ART" name="abrirPagina" finished-at="2022-09-20T21:13:23 ART" duration-ms="4238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- abrirPagina -->
+        <test-method signature="test()[pri:0, instance:edit.CeducacionIT23082022.laboratorio13@1ffaf86]" started-at="2022-09-20T21:13:23 ART" name="test" finished-at="2022-09-20T21:13:23 ART" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- edit.CeducacionIT23082022.laboratorio13 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
